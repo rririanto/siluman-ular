@@ -1,2 +1,2 @@
 # siluman-ular
-Refactor suggestion and generator for Python code
+Refactor suggestion and generation for Python code
